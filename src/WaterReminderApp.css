@@ -1,0 +1,58 @@
+/* WaterReminderApp.css */
+
+.water-reminder-app {
+  text-align: center;
+  margin: 50px;
+}
+
+.goal-container {
+  margin-bottom: 20px;
+}
+
+.goal-display {
+  font-size: 18px;
+  color: #555;
+}
+
+.goal-input {
+  font-size: 16px;
+  padding: 8px;
+  margin-top: 5px;
+}
+
+.water-count-display {
+  font-size: 24px;
+  color: #333;
+}
+
+.button-container {
+  margin-top: 20px;
+}
+
+.increment-button,
+.decrement-button {
+  font-size: 16px;
+  padding: 10px;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.reset-container {
+  margin-top: 20px;
+}
+
+.reset-button {
+  font-size: 16px;
+  padding: 10px;
+  cursor: pointer;
+  background-color: #ff5050;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+
+.info-message {
+  margin-top: 30px;
+  font-size: 14px;
+  color: #888;
+}

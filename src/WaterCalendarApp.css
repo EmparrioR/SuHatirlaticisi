@@ -1,0 +1,55 @@
+/* WaterCalendarApp.css */
+
+.water-calendar-app {
+    text-align: center;
+    margin: 50px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    color: #009688;
+  }
+  
+  .calendar-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .calendar-day {
+    background-color: #e0f2f1;
+    border-radius: 8px;
+    margin: 8px;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .date {
+    font-size: 16px;
+    color: #009688;
+  }
+  
+  .water-count {
+    font-size: 18px;
+    color: #333;
+    margin-top: 5px;
+  }
+  
+  .record-button {
+    font-size: 16px;
+    padding: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: #009688;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .info-message {
+    margin-top: 30px;
+    font-size: 14px;
+    color: #888;
+  }
+  
